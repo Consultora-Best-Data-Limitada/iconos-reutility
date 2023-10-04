@@ -318,13 +318,11 @@
 }
 .icon-fm-reutility:before {
   content: "\e961";
-  color: rgb(0, 0, 0);
   opacity: 0.5;
 }
 .icon-fm-reutility:after {
   content: "\e962";
   margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
 .icon-fm-sad-face:before {
   content: "\e963";
