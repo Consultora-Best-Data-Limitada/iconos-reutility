@@ -316,12 +316,12 @@
 .icon-fm-reload:before {
   content: "\e960";
 }
-.icon-fm-reutility .path1:before {
+.icon-fm-reutility:before {
   content: "\e961";
   color: rgb(0, 0, 0);
   opacity: 0.5;
 }
-.icon-fm-reutility .path2:before {
+.icon-fm-reutility:after {
   content: "\e962";
   margin-left: -1em;
   color: rgb(0, 0, 0);
